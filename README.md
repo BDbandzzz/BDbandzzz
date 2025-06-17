@@ -6,17 +6,16 @@
 
 
 <br>
-
-<div align="left">
-     <h3>👨🏾‍💻 About Me</h3>
-        <ul style="list-style: none;">
-       <li> 
-       <li>🎧 I really enjoy programming while listening to music.</li>
-       <li>💪🏾 Improving my programming skills.</li>
-       <li>🗨️ I don't like typed languages, but I use them anyway.</li>
-       <li>✅ Goal: Be a Full Stack Programmer.</li>
-        </ul>
-   </div>
+      <div align="left">
+           <h3>👨🏾‍💻 About Me</h3>
+            <ul style="list-style: none;">
+                <li>🎮 I love Retro Games </li>
+                <li>🎧 I really enjoy programming while listening to music.</li>
+                <li>💪🏾 Improving my programming skills.</li>
+                <li>🗨️ I don't like typed languages, but I use them anyway.</li>
+                <li>✅ Goal: Be a Full Stack Programmer.</li>
+            </ul>
+      </div>
 <br>
 
 <div align="leftr">
