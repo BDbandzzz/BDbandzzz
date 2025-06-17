@@ -1,6 +1,6 @@
 <h1 align="center">Hey People! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-<h1 align="center">I'm Bryan David, a Software Development student 💻.</h1>
+<h1 align="left">I'm Bryan David, a Software Development student 💻.</h1>
 
 <br>
 
@@ -13,7 +13,6 @@
     <li>✅ Goal: Be a Full Stack Programmer.</li>
   </ul>
 </div>
-
 <br>
 
 <div align="leftr">
@@ -24,7 +23,7 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   <h3>📊 Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=BDbandzzz&show_icons=true&theme=tokyonight" height="180" />
 </div>
