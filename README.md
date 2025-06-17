@@ -1,13 +1,13 @@
 <h1 align="center">Hey People! <img src="https://media.tenor.com/Sgp270pLW2QAAAAj/megaman-x-piki.gif" width="40px" alt="hi"></h1>
 
-<br>
-   <h1 align="left"> <li> I'm Bryan David, a Software Development student  💻 </li> </h1>
+<br> 
+   <h1 align="left"> <li> I'm Bryan David, a Software Development student></li> </h1>
 </br>
 
 
 <br>
       <div align="left">
-           <h3>👨🏾‍💻 About Me</h3>
+           <h2>👨🏾‍💻 About Me</h2>
             <ul style="list-style: none;">
                 <li>🎮 I love Retro Games </li>
                 <li>🎧 I really enjoy programming while listening to music.</li>
