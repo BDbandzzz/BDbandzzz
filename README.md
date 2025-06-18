@@ -1,7 +1,7 @@
 <h1 align="center">Hey People! <img src="https://media.tenor.com/Sgp270pLW2QAAAAj/megaman-x-piki.gif" width="40px" alt="hi"></h1>
 
 <br> 
-   <h1 align="left"> <li> I'm Bryan David, a Software Development student></li> </h1>
+   <h1 align="left"> <li> I'm Bryan David, a Software Development student </li> </h1>
 </br>
 
 
@@ -17,9 +17,8 @@
             </ul>
       </div>
 <br>
-
 <div align="leftr">
-  <h3>🛠 &nbsp; Programming Languages</h3>
+   <h3>🛠 &nbsp; Programming Languages</h3>
   <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='80'/>
   <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='80'/>
 </div>
