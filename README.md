@@ -1,7 +1,7 @@
 <h1 align="center">Hey People! <img src="https://media.tenor.com/Sgp270pLW2QAAAAj/megaman-x-piki.gif" width="40px" alt="hi"></h1>
 
 <br> 
-   <h1 align="left"> <li> I'm Bryan David, a Software Development student </li> </h1>
+   <h2 align="left"> <li> I'm Bryan David,Software Development student  </li> </h2>
 </br>
 
 
@@ -9,11 +9,12 @@
       <div align="left">
            <h2>👨🏾‍💻 About Me</h2>
             <ul style="list-style: none;">
+                <li>🔰 I'm from Buenaventura, Valle del cauca</li>
                 <li>🎮 I love Retro Games </li>
                 <li>🎧 I really enjoy programming while listening to music.</li>
                 <li>💪🏾 Improving my programming skills.</li>
                 <li>🗨️ I don't like typed languages, but I use them anyway.</li>
-                <li>✅ Goal: Be a Full Stack Programmer.</li>
+                <li>✅ Goal: Be a Full Stack Developer.</li>
             </ul>
       </div>
 <br>
