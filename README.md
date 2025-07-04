@@ -21,7 +21,7 @@
 <div align="leftr">
    <h3>🛠 &nbsp; Programming Languages</h3>
   <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='80'/>
-  <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='80'/>
+  <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' width='80'/>
 </div>
 
 <br>
