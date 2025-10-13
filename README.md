@@ -1,26 +1,24 @@
 <h1 align="center">Hey People! <img src="https://media.tenor.com/Sgp270pLW2QAAAAj/megaman-x-piki.gif" width="40px" alt="hi"></h1>
 
-<br> 
-   <h2 align="left"> <li> I'm Bryan David,Software Development student  </li> </h2>
-</br>
-
 
 <br>
       <div align="left">
-           <h2>👨🏾‍💻 About Me</h2>
+         <h2 align="center"> <li> I'm Bryan David,Software Development student  </li> </h2>
+         <h2>👨🏾‍💻 About Me</h2>
             <ul style="list-style: none;">
                 <li>🔰 I'm from Buenaventura, Valle del cauca</li>
                 <li>🎮 I love Retro Games </li>
                 <li>I love python, but i know to use typed languages. </li>
             </ul>
       </div>
-<br>
-<div align="leftr">
+</br>
+
+<div align="left">
    <h3>🛠 &nbsp; My tools </h3>
-  <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='80'/>
-  <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' width='80'/>
-   <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width=80/>
-   <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width =80/>
+    <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='80'/>
+    <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' width='80'/>
+    <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width=80/>
+    <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width =80/>
 </div>
 
 <br>
