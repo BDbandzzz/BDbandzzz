@@ -11,6 +11,7 @@
             <ul style="list-style: none;">
                 <li>🔰 I'm from Buenaventura, Valle del cauca</li>
                 <li>🎮 I love Retro Games </li>
+                <li>I love python, but i know to use typed languages. </li>
             </ul>
       </div>
 <br>
@@ -18,6 +19,8 @@
    <h3>🛠 &nbsp; My tools </h3>
   <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='80'/>
   <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' width='80'/>
+   <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width=80/>
+   <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width =80/>
 </div>
 
 <br>
