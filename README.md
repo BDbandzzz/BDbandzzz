@@ -8,7 +8,9 @@
             <ul style="list-style: none;">
                 <li>🔰 I'm from Buenaventura, Valle del cauca</li>
                 <li>🎮 I love Retro Games </li>
-                <li>I love python, but i know to use typed languages. </li>
+                <li>❤️I love python, but i know to use typed languages. </li>
+                <li>🫠Lover of good desings and clean code.</li>
+                <li>💪🏾 My goal? be a good full stack developer.</li>
             </ul>
       </div>
 </br>
