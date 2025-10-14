@@ -2,7 +2,7 @@
 
 
 <br>
-      <div align="center">
+      <div align="left">
          <h2 align="center"> <li> I'm Bryan David,Software Development student  </li> </h2>
          <h2>👨🏾‍💻 About Me</h2>
             <ul style="list-style: none;">
