@@ -2,7 +2,7 @@
 
 
 <br>
-      <div align="left">
+      <div align="center">
          <h2 align="center"> <li> I'm Bryan David,Software Development student  </li> </h2>
          <h2>👨🏾‍💻 About Me</h2>
             <ul style="list-style: none;">
@@ -15,7 +15,7 @@
       </div>
 </br>
 
-<div align="left">
+<div align="center">
    <h3>🛠 &nbsp; My tools </h3>
     <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='80'/>
     <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' width='80'/>
