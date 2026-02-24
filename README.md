@@ -10,7 +10,7 @@
                 <li>🎮 I love Retro Games </li>
                 <li>❤️I love python, but i know to use typed languages. </li>
                 <li>🫠Lover of good desings and clean code.</li>
-                <li>💪🏾 My goal? be a good full stack developer.</li>
+                <li>💪🏾 My goal? be a backend developer.</li>
             </ul>
       </div>
 </br>
