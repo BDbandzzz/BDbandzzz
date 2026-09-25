@@ -1,1 +1,2 @@
-compa dejeme sano oyo
+Producto del getto, siempre imponiendo respeto
+SCARDEEEM CREWWWW AKJSDKADKAJSDJKJASD
